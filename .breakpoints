@@ -1,0 +1,26 @@
+{
+  "files": {
+    "index .html": [
+      {
+        "id": "e0ff8536-f65d-4852-8900-d6f8db2aadec",
+        "line": 7,
+        "version": 25,
+        "index": 220
+      },
+      {
+        "id": "73d19fc5-94c0-4dd4-ad3b-3788815cf468",
+        "line": 15,
+        "version": 25,
+        "index": 402
+      }
+    ],
+    "index.jsx": [
+      {
+        "id": "d1367716-ccd0-481d-bff8-de3f9ce48c36",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ]
+  }
+}
